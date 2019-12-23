@@ -1,2 +1,9 @@
 *.class
 *.log
+out/
+target/
+.idea/
+.idea_modules/
+.metals/
+.bloop/
+.vscode/
